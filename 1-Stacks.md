@@ -15,6 +15,7 @@ Find the Size                      | len(stack)
 
 
 ## Example
+Consider the following code.
 > stack = [1,2,3]
 >
 > stack.append(4)
@@ -33,6 +34,8 @@ Find the Size                      | len(stack)
 The first print statemnet gives us [1, 2, 3, 4]
 
 The second print statement gives us [1, 3, 4]
+
+Why did the "stack.pop(1)" remove the 2? It is because the 2 was in the "1" index of the stack. This means that we can remove from the middle of the stack, but part of the power of the stack is that we can have things in a designed order if we choose too.
 
 
 
