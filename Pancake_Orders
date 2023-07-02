@@ -16,9 +16,9 @@ def pancake_orders(orders):
 
 orders = ["plain", "bluberry", "chocolate"]
 print(pancake_orders(orders))
-print()
+
 orders = ["bluberry", "apple", "plain", "chocolate", "chocolate"]
 print(pancake_orders(orders))
-print()
+
 orders = ["gluten free", "plain", "plain", "chocolate", "bluberry", "mango", "large", "plain", "large",]
 print(pancake_orders(orders))
