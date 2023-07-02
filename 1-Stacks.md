@@ -1,9 +1,17 @@
 # Stacks
-
+Stacks are one the most basic kinds of data structures. 
 
 
 ## Last In, First Out
+They function a lot like a stack of pancakes. We put add to the stack on the top and remove from the stack from the top. It's not reasonable to add or remove from the middle or bottom of the stack, that would disrupt the stack and isn't viable.
 
+There are specific commands to do this. The table below shows
+
+Functionallity | Code
+-------------- | -------------------
+Add            | stack.append(value)
+Remove from the back of the stack | stack.pop()
+Find the Size  | len(stack)
 
 
 ## Example
