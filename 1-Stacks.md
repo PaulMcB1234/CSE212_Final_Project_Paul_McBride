@@ -16,13 +16,18 @@ Find the Size                      | len(stack)
 
 ## Example
 > stack = [1,2,3]
-
-stack.append(4)
-stack.append(5)
-stack.pop()
-print(stack)
-stack.pop(1)
-print(stack)
+>
+> stack.append(4)
+>
+> stack.append(5)
+>
+> stack.pop()
+>
+> print(stack)
+>
+> stack.pop(1)
+>
+> print(stack)
 
 
 The first print statemnet gives us [1, 2, 3, 4]
