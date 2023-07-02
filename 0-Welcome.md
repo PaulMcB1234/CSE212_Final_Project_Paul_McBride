@@ -7,5 +7,6 @@ Welcome to the Python Data Structures Tutorial. Being an experienced programming
 
 ## Contact
 For Questions or comments, please send them to:
+
 Paul McBride, BYU-Idaho
 mcb19008@byui.edu
