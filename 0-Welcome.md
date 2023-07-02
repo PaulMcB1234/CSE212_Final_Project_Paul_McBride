@@ -3,7 +3,7 @@ Welcome to the Python Data Structures Tutorial. Being an experienced programming
 
 * [Stacks](https://github.com/PaulMcB1234/CSE212_Final_Project_Paul_McBride/blob/main/1-Stacks.md)
 * [Sets](https://github.com/PaulMcB1234/CSE212_Final_Project_Paul_McBride/blob/main/2-Sets.md)
-* [Trees]()
+* [Trees](https://github.com/PaulMcB1234/CSE212_Final_Project_Paul_McBride/blob/main/3-Trees.md)
 
 ## Contact
 For Questions or comments, please send them to:
