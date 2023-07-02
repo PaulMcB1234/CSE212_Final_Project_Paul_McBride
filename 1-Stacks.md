@@ -23,7 +23,9 @@ print(stack)
 stack.pop(1)
 print(stack)
 
+
 The first print statemnet gives us [1, 2, 3, 4]
+
 The second print statement gives us [1, 3, 4]
 
 
