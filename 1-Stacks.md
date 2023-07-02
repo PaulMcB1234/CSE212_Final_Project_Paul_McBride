@@ -7,15 +7,24 @@ They function a lot like a stack of pancakes. We put add to the stack on the top
 
 There are specific commands to do this. The table below shows
 
-Functionallity | Code
--------------- | -------------------
-Add            | stack.append(value)
-Remove from the back of the stack | stack.pop()
-Find the Size  | len(stack)
+Functionallity                     | Code
+---------------------------------- | -------------------
+Add                                | stack.append(value)
+Remove from the back of the stack  | stack.pop()
+Find the Size                      | len(stack)
 
 
 ## Example
-
+> stack = [1,2,3]
+> stack.append(4)
+> stack.append(5)
+> stack.pop()
+> print(stack)
+> stack.pop(1)
+> print(stack)
+The first print statemnet gives us [1, 2, 3, 4]
+The second print statement gives us [1, 3, 4]
+> 
 
 
 ## Problem to Solve
