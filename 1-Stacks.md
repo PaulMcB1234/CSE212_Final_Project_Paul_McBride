@@ -13,6 +13,7 @@ Add                                | stack.append(value)
 Remove from the back of the stack  | stack.pop()
 Find the Size                      | len(stack)
 
+![](https://github.com/PaulMcB1234/CSE212_Final_Project_Paul_McBride/blob/main/Picture%20Stack.jpg)
 
 ## Example
 Consider the following code.
