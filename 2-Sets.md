@@ -2,6 +2,21 @@
 With most types of data structures, the location of data is important. With sets, the order the data is saved and called on is largly unimportant.
 
 ## Order is Unimportant
+Since the order isn't necessary for us to analyze the data in the set, this opens us up for many things, which are shown in the table below.
+
+### Characteristics of Sets
+* Faster performance for finding, removing (pop), and adding (push)
+* No duplicates are allowed. This can create conflicts when two sets of data are equal or are being put into the same file location by the program, but there are ways around this.
+* The order of the sets are unimportant. The function Hash doesn't look at when the value was added.
+
+### Possible uses of Sets.
+* Finding unique values in a list.
+* Quick access to previous calculations.
+* Finding intersections and unions between two sets.
+
+
+
+
 
 
 ![](https://github.com/PaulMcB1234/CSE212_Final_Project_Paul_McBride/blob/main/Picture%20Set.jpg)
