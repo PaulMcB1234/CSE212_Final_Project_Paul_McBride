@@ -18,13 +18,13 @@ Since the order isn't necessary for us to analyze the data in the set, this open
 
 ## Example
 Lets say we're given 2 sets that have some amount of values in them that correspond to employee ID numbers for two different areas of a company. We can find what employees attend both ares by finding the tntersection of the two sets. Or we could find a total list of the employees with no duplicates by finding the union of the two sets. Examples of the intersection and union functions can be found below.
-'''
+~~~
 set3 = intersection(set1, set2)
 set3 = set1 & set2
 
 set4 = union(set1, set2)
 set4 = set1 | set2
-'''
+~~~
 
 ## Problem to Solve
 Write a function that analyzes two sets, each with a list of ingredients for a pizza, and determine what ingredients are the same in one set, and what ingredients are different in another set. Test cases and an outline have been provided [here](https://github.com/PaulMcB1234/CSE212_Final_Project_Paul_McBride/blob/main/Pizza_Ingredients).
