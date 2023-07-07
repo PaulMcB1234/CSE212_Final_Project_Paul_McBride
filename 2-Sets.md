@@ -1,6 +1,5 @@
 # Sets
-
-
+With most types of data structures, the location of data is important. With sets, the order the data is saved and called on is largly unimportant.
 
 ## Order is Unimportant
 
