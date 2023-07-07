@@ -13,7 +13,6 @@ Since the order isn't necessary for us to analyze the data in the set, this open
 * Finding unique values in a list.
 * Quick access to previous calculations.
 * Finding intersections and unions between two sets.
-* 
 ![](https://github.com/PaulMcB1234/CSE212_Final_Project_Paul_McBride/blob/main/Picture%20Set.jpg)
 
 ## Example
