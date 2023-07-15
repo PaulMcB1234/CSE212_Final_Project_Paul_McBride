@@ -9,11 +9,16 @@ Since the order isn't necessary for us to analyze the data in the set, this open
 * No duplicates are allowed. This can create conflicts when two sets of data are equal or are being put into the same file location by the program, but there are ways around this.
 * The order of the sets are unimportant. The function Hash doesn't look at when the value was added.
 
+
+
 ### Possible uses of Sets.
 * Finding unique values in a list.
 * Quick access to previous calculations.
 * Finding intersections and unions between two sets.
 ![](https://github.com/PaulMcB1234/CSE212_Final_Project_Paul_McBride/blob/main/Picture%20Set.jpg)
+
+## Hashing
+Something uniquie about Sets is a function called "Hashing." Hashing isn't exlusive to sets, but it takes non-integers and covnerts them to integers. A word would become a long string of numbers, but the computer knows what it is suppose to mean and can manage it in different ways. This is useful because sets allow numbers, and finding a reasonable place to put a number in a set is used with the function **index(n) = n % 10**.
 
 ## Example
 Lets say we're given 2 sets that have some amount of values in them that correspond to employee ID numbers for two different areas of a company. We can find what employees attend both ares by finding the tntersection of the two sets. Or we could find a total list of the employees with no duplicates by finding the union of the two sets. Examples of the intersection and union functions can be found below.
