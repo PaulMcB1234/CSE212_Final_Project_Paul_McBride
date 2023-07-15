@@ -15,6 +15,8 @@ Find the Size                      | len(stack)
 
 ![](https://github.com/PaulMcB1234/CSE212_Final_Project_Paul_McBride/blob/main/Picture%20Stack.jpg)
 
+Most functions the stacks utilize hae a big(O) notation of O(1) by themselves, but as many are put into place, the notation can change.
+
 ## Example
 Consider the following code.
 > stack = [1,2,3]
